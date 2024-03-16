@@ -1,4 +1,4 @@
-/* SQL Doumentarion filename.sql
+/* SQL Doumentation filename.sql
     @Description
 
     @type SQL
