@@ -13,7 +13,7 @@ USE sakila;
 -- utilizar qualquer coluna ou valor da tabela essa informação
 SELECT *
 FROM actor
-WHERE actor_id >= '50'
+WHERE actor_id >= '50';
 -- É aqui que viria o ORDER BY
 
 -- Neste exemplo a query buscar as informações das coluas
@@ -25,7 +25,7 @@ SELECT actor_id
     , last_name
 FROM actor
 WHERE actor_id >= '50'
-ORDER BY first_name
+ORDER BY first_name;
 
 -- OBS: Por padrão o ORDER BY irá organizar as informações de forma
 -- ASCENDENTE (ASC), para organizar de maneira DECRESCENTE utiliza-se
@@ -35,4 +35,4 @@ SELECT actor_id
     , last_name
 FROM actor
 WHERE actor_id >= '50'
-ORDER BY first_name DESC
+ORDER BY first_name DESC;

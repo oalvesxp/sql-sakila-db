@@ -22,13 +22,13 @@ SELECT customer_id
     , last_name
 FROM customer
 WHERE first_name = 'Mary'
-    AND last_name = 'Smith'
+    AND last_name = 'Smith';
 
 -- Listando todas as compras desta cliente
 SELECT customer_id
     , amount
 FROM payment
-WHERE customer_id = '1'
+WHERE customer_id = '1';
 
 -- Criando uma tabela temporária com o desconto de 10%
 -- e nomeando a coluna para '10% discount'
@@ -36,4 +36,4 @@ SELECT customer_id
     , amount
     , amount - (amount * 0.10) AS '10% discount'
 FROM payment
-WHERE customer_id = '1'
+WHERE customer_id = '1';
