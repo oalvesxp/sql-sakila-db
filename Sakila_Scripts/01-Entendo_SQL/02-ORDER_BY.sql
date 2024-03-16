@@ -10,7 +10,7 @@
 USE sakila;
 
 -- O "ORDER BY" vem depois do condicionamento, e deve usar como 
--- parâmetro de organização uma coluna solicitada no cabeçalho do SELECT
+-- parâmetro de organização uma coluna da tabela selecionada
 SELECT actor_id, first_name, last_name FROM actor ORDER BY first_name;
 
 -- Para a query ficar mais legível normalmente separamos em seções
