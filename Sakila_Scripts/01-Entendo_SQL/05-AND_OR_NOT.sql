@@ -29,7 +29,7 @@ WHERE store_id = '1'
 SELECT *
 FROM payment
 WHERE staff_id = '1'
-    AND amount >= '11.99';
+    OR amount >= '11.99';
 
 -- NOT: ignora um dado de acordo com a validação
 -- Busca todos os dados que o amount não é igual a $0.99
