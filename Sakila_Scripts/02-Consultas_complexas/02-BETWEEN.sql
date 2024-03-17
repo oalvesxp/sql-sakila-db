@@ -1,5 +1,5 @@
 /* SQL Doumentation BETWEEN.sql
-    @IN:           Comando para consultar um valor dentro de um RANGE expecífico.
+    @BETWEEN:           Comando para consultar um valor dentro de um RANGE expecífico.
 
     @type SQL
     @author Osvaldo A. Neto

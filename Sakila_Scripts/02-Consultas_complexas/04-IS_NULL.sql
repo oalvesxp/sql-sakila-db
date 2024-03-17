@@ -1,5 +1,5 @@
 /* SQL Doumentation IS_NULL.sql
-    @LIKE:           Valida qual campo não contém informação. 
+    @IS_NULL:           Valida qual campo não contém informação. 
 
     @type SQL
     @author Osvaldo A. Neto
