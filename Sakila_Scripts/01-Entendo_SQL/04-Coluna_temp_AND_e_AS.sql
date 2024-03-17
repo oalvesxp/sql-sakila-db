@@ -1,4 +1,4 @@
-/* SQL Doumentation WHERE.sql
+/* SQL Doumentation Coluna_temp_AND_e_AS.sql
     @Coluna Temp:   Em uma consulta podemos criar uma coluna temporária para armazenar dados de uma operação matematica (por exemplo).
     @AS:            Comando de aliases, utilizado para renomear uma coluna para leitura (não altera a estrutura do banco).
     @AND:           Operador de conjunto para condição (TRUE + TRUE), Ex: O first_name='Osvaldo' + last_name='Neto'. 

@@ -1,4 +1,4 @@
-/* SQL Doumentation 01-USE_e_SELECT.sql
+/* SQL Doumentation USE_e_SELECT.sql
     @USE:       Comando para selecionar o banco de trabalho.
     @SELECT:    Comando para ler dados dentro de uma tabela do banco de trabalho.
 
