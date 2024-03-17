@@ -1,4 +1,4 @@
-/* SQL Doumentation WHERE.sql
+/* SQL Doumentation AND_OR_NOT.sql
     @AND:           Operador de conjunto para condição (TRUE + TRUE = TRUE), Ex: O first_name='Osvaldo' + last_name='Neto'.
     @OR:            Operador de conjunto para condição (TRUE + FALSE = TRUE).
     @NOT:           Operador de conjunto para negação.
