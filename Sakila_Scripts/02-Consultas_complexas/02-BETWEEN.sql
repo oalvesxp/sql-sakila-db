@@ -1,4 +1,4 @@
-/* SQL Doumentation IN.sql
+/* SQL Doumentation BETWEEN.sql
     @IN:           Comando para consultar um valor dentro de um RANGE expecífico.
 
     @type SQL
